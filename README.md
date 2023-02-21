@@ -5,4 +5,4 @@
 ### Course Section instructions:
 > Write a Python script that takes a PDF file and converts it into speech.
 
-This project includes the use of the `PyPDF2`, 'pyttsx3`, and `tkinter` modules. See comments in `main.py` for guidance.
+This project includes the use of the `PyPDF2`, `pyttsx3`, and `tkinter` modules. See comments in `main.py` for guidance.
