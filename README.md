@@ -1,2 +1,2 @@
-# py-pdf-to-speech
+# Python PDF-To-Speech Application.
 text goes here
