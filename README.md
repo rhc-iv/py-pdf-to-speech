@@ -8,4 +8,4 @@
 This project includes the use of the `PyPDF2`, `pyttsx3`, and `tkinter` modules. See comments in `main.py` for guidance.
 
 ### Screenshot:
-![PDF-To-Speech Application Screenshot]()
+![PDF-To-Speech Application Screenshot](https://github.com/rhc-iv/py-pdf-to-speech/blob/main/screenshot.png)
