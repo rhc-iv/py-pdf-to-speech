@@ -17,9 +17,11 @@
 ---
 
 > A Python app that takes a PDF file as input, then outputs the text of the PDF to speech.
-<p align="center"
+
+<p align="center">
   <img alt="PDF-To-Speech Applicaton" src="https://github.com/rhc-iv/py-pdf-to-speech/blob/main/screenshot.png?raw=true" width="800" />
 <p>
+
 ## Usage
 
 - Open and run `main.py` in the editor/IDE of your choice.
