@@ -1,6 +1,8 @@
 <h1 align="center">🗣️ (Python) PDF-To-Speech Application</h1>
+<p align="center">
   <img alt="Python Version" src="https://img.shields.io/badge/python_version-3.11-yellow" /><br>
   <img alt="Version" src="https://img.shields.io/badge/app_version-1.10-blue.svg?cacheSeconds=2592000" />
+</p>
   <p align="center">
   <a href="https://twitter.com/rhc_iv" target="_blank">
     <img alt="Twitter: rhc_iv" src="https://img.shields.io/twitter/follow/rhc_iv.svg?style=social" /><br>
